@@ -1,5 +1,11 @@
-### Hi there 👋
-💻 Full-Stack Web Developer 💻
+<h1 align="center" >
+Hi there 👋 
+I'm Diego Tavelli
+</h1>
+<h2>
+ Full-Stack Web Developer 
+</h2>
+
 
 
 
