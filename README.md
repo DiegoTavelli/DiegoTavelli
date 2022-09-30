@@ -19,7 +19,7 @@ ReactJs, React Native, Redux, NodeJs, Express, PostgreSQL, sequelize, MongoDB.
 Currently learning:
 TypeScript, Angular, GraphQL. 
 
-I always want to learn ! 😀
+Always looking to create something cool ! 😀
 
 
 
