@@ -11,19 +11,23 @@ I'm Diego Tavelli
 
 💬 About me:
 
-I'm a Full-Stack Web Developer, graduated from the Henry's bootcamp.
+I'm a Full-Stack Web Developer
+Technologies:
+ReactJs, 
+React Native, 
+Redux, 
+NodeJs, 
+Express, 
+PostgreSQL, 
+sequelize, 
+MongoDB,
+git,
+figma,
+SCSS
 
-Technologies learned:
-ReactJs, React Native, Redux, NodeJs, Express, PostgreSQL, sequelize, MongoDB.
-
-Currently learning:
-TypeScript, Angular, GraphQL. 
 
 Always seeking to improve! 😀
-
-
-
-📫 Contact me:
+📫 Reach me:
 
 ✉ diegotavelli@gmail.com
 
