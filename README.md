@@ -8,6 +8,7 @@ I'm Diego Tavelli
 
 💬 About me:
 
+
 - I am a Full Stack Developer, easily adaptable, tolerant, positive and proactive.
 - I have active listening skills to be able to generate concrete solutions to current problems.
 - Generator of empathy, to always seek the integration of all parts of the team.
