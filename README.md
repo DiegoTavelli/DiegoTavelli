@@ -18,16 +18,11 @@ I'm Diego Tavelli
 I believe these are fundamental factors to be able to deliver quality software and boost my career as a developer.
 
 >💻 Technologies:
-- Front-end: ReactJs, React Native, Redux.
+- Front-end: NextJs, ReactJs, React Native, Redux.
 - Back-end: NodeJs, Express, NestJs.
 - Database: SQL, Postgres, Sequelize, MongoDB
 - Collaborative development: Git, GitHub.
 - Work methodologies: Scrum, Agile.
-- Music production: ProTools, Cubase, Ableton, Propellerhead Reason.
-
->* Languages:
-- English: C2 English (Proficient).
-- Portuguese: Basic usage.
 
 
 Always seeking to improve! 😀
