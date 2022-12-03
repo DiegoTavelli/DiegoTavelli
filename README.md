@@ -14,7 +14,8 @@ I'm Diego Tavelli
 - I have active listening skills to be able to generate concrete solutions to current problems.
 - Generator of empathy, to always seek the integration of all parts of the team.
 
-🚀- My goal is to be part of a team where harmony, understanding and commitment prevail. I believe these are fundamental factors to be able to deliver quality software and boost my career as a developer.
+>🚀- My goal is to be part of a team where harmony, understanding and commitment prevail. 
+I believe these are fundamental factors to be able to deliver quality software and boost my career as a developer.
 
 >💻 Technologies:
 - Front-end: ReactJs, React Native, Redux.
