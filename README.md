@@ -21,7 +21,7 @@ Always seeking to improve! 😀
 </a>
 
 <h3>Linkedin:</h3>
-<a href="https://www.linkedin.com/in/diegotavelli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacqueline leone" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diegotavelli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego tavelli" height="30" width="40" /></a>
 
 
 
