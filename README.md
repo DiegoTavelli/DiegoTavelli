@@ -3,14 +3,14 @@ Hi there 👋
 I'm Diego Tavelli
 </h1>
 <h2>
- Full-Stack Web Developer 
+ Full-Stack Web & Mobile Developer
 </h2>
->💻 Technologies:
-- Front-end: NextJs, ReactJs, React Native, Redux.
-- Back-end: NodeJs, Express, NestJs.
-- Database: SQL, Postgres, Sequelize, MongoDB
-- Collaborative development: Git, GitHub.
-- Work methodologies: Scrum, Agile.
+<h3>💻 Technologies:</h3>
+<p>- Front-end: NextJs, ReactJs, React Native, Redux. </p>
+<p>- Back-end: NodeJs, Express, NestJs. </p>
+<p>- Database: SQL, Postgres, Sequelize, MongoDB. </p>
+<p>- Collaborative development: Git, GitHub. </p>
+<p>- Work methodologies: Scrum, Agile. </p>
 
 
 Always seeking to improve! 😀
