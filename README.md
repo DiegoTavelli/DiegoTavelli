@@ -3,7 +3,7 @@ Hi there 👋
 I'm Diego Tavelli
 </h1>
 <h2>
- Full-Stack Web & Mobile Developer
+ Full-Stack Developer, Web & Mobile 
 </h2>
 <h3>💻 Technologies:</h3>
 <p>- Front-end: NextJs, ReactJs, React Native, Redux. </p>
