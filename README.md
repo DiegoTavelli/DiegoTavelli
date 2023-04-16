@@ -9,7 +9,7 @@ I'm Diego Tavelli
 <p>- Front-end: NextJs, ReactJs, React Native, Redux, Context. </p>
 <p>- Back-end: NodeJs, Express, NestJs. </p>
 <p>- Database: SQL, Postgres, Sequelize, MongoDB. </p>
-<p>- Collaborative development: Git, GitHub. </p>
+<p>- Collaborative development: Git, GitHub, GitLab, Azure. </p>
 <p>- Work methodologies: Scrum, Agile. </p>
 <br>
 
