@@ -18,7 +18,7 @@ I'm Diego Tavelli
 📫 Reach me:
 
 
-  📄 See my [cv](https://github.com/DiegoTavelli/DiegoTavelli/blob/main/Diego%20M%20Tavelli%20H%20-%20CV.pdf) y [descargarlo](https://raw.githubusercontent.com/DiegoTavelli/DiegoTavelli/refs/heads/main/Diego%20M%20Tavelli%20H%20-%20CV.pdf)
+  📄 See my [cv](https://github.com/DiegoTavelli/DiegoTavelli/blob/main/Diego%20M%20Tavelli%20H%20-%20CV.pdf) & [download](https://raw.githubusercontent.com/DiegoTavelli/DiegoTavelli/refs/heads/main/Diego%20M%20Tavelli%20H%20-%20CV.pdf)
 
 <div>
 <h3>Email: </h3>
