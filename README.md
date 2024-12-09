@@ -16,6 +16,13 @@ I'm Diego Tavelli
 <h4>Always seeking to improve! 😀 </h4>
 <hr>
 📫 Reach me:
+
+<div>
+ <h5>
+  📄 See my [cv](https://github.com/DiegoTavelli/DiegoTavelli/blob/main/Diego%20M%20Tavelli%20H%20-%20CV.pdf) y [descargarlo](https://raw.githubusercontent.com/DiegoTavelli/DiegoTavelli/refs/heads/main/Diego%20M%20Tavelli%20H%20-%20CV.pdf)
+ </h5>
+</div>
+
 <div>
 <h3>Email: </h3>
 <a href="mailto:diegotavelli@gmail.com" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="40" height="40"/> diegotavelli@gmail.com
