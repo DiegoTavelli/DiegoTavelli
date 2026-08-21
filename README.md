@@ -6,7 +6,7 @@ I'm Diego Tavelli
 <h2>Full Stack Developer — Backend & Distributed Systems</h2>
 
 <p>
-4+ years building production fintech solutions for multi-country banking operations across Latin America.<br>
+3+ years building production fintech solutions for multi-country banking operations across Latin America.<br>
 Focused on backend architecture, microservices and event-driven systems.
 </p>
 
