@@ -3,39 +3,46 @@ Hi there 👋
 I'm Diego Tavelli
 </h1>
 
-<h2>Full Stack Developer — Backend & Distributed Systems</h2>
+<h2>Full Stack Software Engineer | Node.js, NestJS, React, TypeScript</h2>
 
 <p>
-3+ years building production fintech solutions for multi-country banking operations across Latin America.<br>
-Focused on backend architecture, microservices and event-driven systems.
+4 years of production experience, including 3.5 years building software for banking clients in Colombia, Panama and Puerto Rico.<br>
+Backend-focused: microservices, event-driven systems, application security and production reliability.
 </p>
 
-<h3>💻 Stack:</h3>
+<h3>💻 Stack</h3>
 
-<p>- <strong>Backend:</strong> NestJS, Node.js, TypeScript, RabbitMQ, REST APIs</p>
-<p>- <strong>Frontend:</strong> React, TypeScript</p>
-<p>- <strong>Databases:</strong> PostgreSQL, MongoDB, Redis</p>
-<p>- <strong>Infrastructure:</strong> Docker, Kubernetes, Azure</p>
-<p>- <strong>Practices:</strong> Microservices, Event-driven architecture, Scrum, Agile</p>
-<p>- <strong>Currently learning:</strong> Go</p>
+- **Backend:** Node.js, NestJS, TypeScript, REST APIs, microservices, RabbitMQ
+- **Frontend:** React, Next.js, Astro, Tailwind CSS
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps:** Docker, Kubernetes, Azure, Azure DevOps CI/CD, Cloudflare
+- **Testing:** Vitest, Jest
+- **Practices:** Scrum, pentest remediation (CWE), code review, mentoring
 
-<br>
+<h3>🔧 Highlights</h3>
 
-<h4>Always building, always learning. 🚀</h4>
+- Traced a critical authentication race condition in a biometric verification flow used in 3 countries; fix shipped in under an hour against a 4-hour SLA.
+- Rewrote a bulk upload that froze the backend, cutting 2,000+ database queries to 2.
+- Three years remediating pentest findings: CSP with nonces, Web Crypto API, secure session handling.
+
+Most of my banking work lives in private client repositories.
+
+<h3>🚀 Recent work</h3>
+
+- [ibagency.com](https://ibagency.com): the client's website and admin panel, built end to end on Cloudflare (Workers, D1, Better Auth).
 
 <hr>
 
-📫 Reach me:
+<h3>📫 Reach me</h3>
 
-<div>
-<h3>Email:</h3>
+<p>
 <a href="mailto:diegotavelli@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="40" height="40"/> diegotavelli@gmail.com
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="30" height="30"/>
 </a>
-<br></br>
-<h3>Linkedin:</h3>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/diegotavelli/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego tavelli" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-</div>
+</p>
 
+📧 diegotavelli@gmail.com
